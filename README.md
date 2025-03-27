@@ -33,3 +33,5 @@
 [Диаграмма развертывания](https://github.com/Aleygv/Fishing_game/blob/main/Diagrams/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%80%D0%B0%D0%B7%D0%B2%D1%91%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
 
 ТЗ первая аттестация [.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%A2%D0%97%20%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D0%B0%D1%82%D1%82%D0%B0.pdf) [.docx](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%A2%D0%97%20%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D0%B0%D1%82%D1%82%D0%B0.docx)
+
+[Видео с презентацией](https://drive.google.com/file/d/13Y3dJkEKCISjUAHoFCLYGAghQHK01W7r/view?usp=sharing)
