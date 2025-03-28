@@ -32,7 +32,7 @@
 
 [Диаграмма развертывания](https://github.com/Aleygv/Fishing_game/blob/main/Diagrams/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%80%D0%B0%D0%B7%D0%B2%D1%91%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
 
-[Предпроектное исследование](https://docs.google.com/document/d/1p6nZIy6ggyED6jxYc-BroqjdP3o3GjJ8HrmA4Kgb2lM/edit?usp=sharing)
+Предпроектное исследование [.pdf]([https://github.com/Aleygv/Fishing_game/blob/main/Documents/ТЗ%20первая%20атта%20итог.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/Предпроектное%20исследование.pdf)) [.docx](https://github.com/Aleygv/Fishing_game/blob/main/Documents/Предпроектное%20исследование.docx)
 
 ТЗ первая аттестация [.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/ТЗ%20первая%20атта%20итог.pdf) [.docx](https://github.com/Aleygv/Fishing_game/blob/main/Documents/ТЗ%20первая%20атта%20итог.docx)
 
