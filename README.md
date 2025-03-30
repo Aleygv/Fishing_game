@@ -18,6 +18,9 @@
 [Miro](https://miro.com/welcomeonboard/bjlqdXVvUDMzQXJrVkZZR2F2REc3VlhqVUNFOVByZE9GWkhsamNjTTJ1QWNrRDA0RVZNbHNPME9FcUtCZk9Fb3hhZXNicjlqZ0FrcVRFZGxLOU5yaGxEUWxXUVJ2OGt2WVp4T3dQMnlSRlU1VitRVU1HMmVMZ2NZRzhHS05CK0FyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=15541940578)
 
 [Jira](https://fishin-game.atlassian.net/jira/software/projects/FISH/summary)
+- Учетка на время кросс-ревью 
+    - Логин: larow76030@dizigg.com
+    - Пароль: asdsadasdsadsadsadsa
 
 [Confluence](https://fishin-game.atlassian.net/wiki/spaces/~7120203309141a3da648bcae16a22bff504c60/pages/edit-v2/65543?draftShareId=eb00362f-602d-4876-89a9-e72e69b805d1)
 
