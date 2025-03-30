@@ -52,4 +52,4 @@
 
 От 1 группы 2 команды [.pdf](https://github.com/progerg/Lawly/blob/master/documentation/checklist.pdf)
 
-От 2 группы 2 команды [.pdf]()
+От 2 группы 2 команды [.pdf](https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2FGoshaNumberOne%2Fescadre.io%2Fblob%2Fmain%2Fdocumentation%2F%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D1%80%D0%B5%D0%B2%D1%8C%D1%8E%2520(1%2520%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D1%8F).pdf&utf=1)
