@@ -42,3 +42,14 @@
 [Видео с презентацией](https://drive.google.com/file/d/13Y3dJkEKCISjUAHoFCLYGAghQHK01W7r/view?usp=sharing)
 
 [Правила коммитов](https://github.com/Aleygv/Fishing_game/blob/main/Documents/Git%20rules.md)
+
+## Кросс-ревью проектов
+Наш чек-лист [.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B33%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
+
+От 1 группы 1 команды [.pdf](https://gitlab.minecraftslaves.duckdns.org/graphontext/markethelp/-/blob/main/specification/check/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B31%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf?ref_type=heads)
+
+От 2 группы 1 команды [.pdf](https://github.com/2group1team/VoiceChef/blob/master/Documentation/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%202%D0%B31%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
+
+От 1 группы 2 команды [.pdf](https://github.com/progerg/Lawly/blob/master/documentation/checklist.pdf)
+
+От 2 группы 2 команды [.pdf]()
