@@ -2,17 +2,17 @@
 ## Игра про ловлю рыбы и её коллекционирование
 
 ## Участники
-[Богачев-Воевудский Алексей](https://github.com/Aleygv)
+[Богачев-Воевудский Алексей](https://github.com/Aleygv) - Team-lead, главный frontend разработчик
 
-[Веремеев Вячеслав](https://github.com/DangeonSlavka)
+[Веремеев Вячеслав](https://github.com/DangeonSlavka) - scrum manager, главный художник
 
-Габелко Мария
+Габелко Мария - художник по UI
 
-[Елфимов Александр](https://github.com/Devonty)
+[Елфимов Александр](https://github.com/Devonty) - аналитик
 
-[Штукатуров Дмитрий](https://github.com/POTAP322)
+[Штукатуров Дмитрий](https://github.com/POTAP322) - backend разработчик
 
-Дубровин Дмитрий
+Дубровин Дмитрий - второй frontend разработчик
 
 ## Ссылки на сервисы
 [Miro](https://miro.com/app/board/uXjVIeoOTUM=/)
@@ -37,3 +37,5 @@
 ТЗ первая аттестация [.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/ТЗ%20первая%20атта%20итог.pdf) [.docx](https://github.com/Aleygv/Fishing_game/blob/main/Documents/ТЗ%20первая%20атта%20итог.docx)
 
 [Видео с презентацией](https://drive.google.com/file/d/13Y3dJkEKCISjUAHoFCLYGAghQHK01W7r/view?usp=sharing)
+
+[Правила коммитов](https://github.com/Aleygv/Fishing_game/blob/main/Documents/Git%20rules.md)
