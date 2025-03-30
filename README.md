@@ -6,13 +6,13 @@
 
 [Веремеев Вячеслав](https://github.com/DangeonSlavka) - scrum manager, главный художник
 
-Габелко Мария - художник по UI
+[Габелко Мария](#) - художник по UI
 
 [Елфимов Александр](https://github.com/Devonty) - аналитик, тестировщик
 
 [Штукатуров Дмитрий](https://github.com/POTAP322) - backend разработчик
 
-Дубровин Дмитрий - второй frontend разработчик
+[Дубровин Дмитрий](#) - второй frontend разработчик
 
 ## Ссылки на сервисы
 [Miro](https://miro.com/welcomeonboard/bjlqdXVvUDMzQXJrVkZZR2F2REc3VlhqVUNFOVByZE9GWkhsamNjTTJ1QWNrRDA0RVZNbHNPME9FcUtCZk9Fb3hhZXNicjlqZ0FrcVRFZGxLOU5yaGxEUWxXUVJ2OGt2WVp4T3dQMnlSRlU1VitRVU1HMmVMZ2NZRzhHS05CK0FyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=15541940578)
