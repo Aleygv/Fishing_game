@@ -8,7 +8,7 @@
 
 Габелко Мария - художник по UI
 
-[Елфимов Александр](https://github.com/Devonty) - аналитик
+[Елфимов Александр](https://github.com/Devonty) - аналитик, тестировщик
 
 [Штукатуров Дмитрий](https://github.com/POTAP322) - backend разработчик
 
