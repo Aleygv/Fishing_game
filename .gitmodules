@@ -1,0 +1,3 @@
+[submodule "TEST_GAME"]
+	path = TEST_GAME
+	url = https://github.com/Aleygv/TEST_GAME.git
