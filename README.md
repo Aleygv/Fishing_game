@@ -54,12 +54,14 @@
 [Репозиторий с игрой](https://github.com/Aleygv/TEST_GAME/tree/fin_archetecture)
 
 [Репозиторий с админ панелью](https://github.com/POTAP322/fishventure-admin-panel.git)
+
 [Админ панель](http://5.35.89.153:8000/)
 - Учетка админа
     - Логин: admin
     - Пароль: ker452dss
 
 [Репозиторий с API](https://github.com/POTAP322/fishventure-api-service)
+
 [Swagger](http://5.35.89.153/docs)
 
 ## Кросс-ревью проектов
