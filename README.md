@@ -58,7 +58,7 @@
 [Админ панель](http://5.35.89.153:8000/)
 - Учетка админа
     - Логин: admin
-    - Пароль: ker452dss
+    - Пароль: hjh53535
 
 [Репозиторий с API](https://github.com/POTAP322/fishventure-api-service)
 
