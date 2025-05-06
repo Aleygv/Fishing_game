@@ -67,7 +67,7 @@
 ## Кросс-ревью проектов (1 атта)
 Наш чек-лист [.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B33%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
 
-От 1 группы 1 команды [.pdf](https://gitlab.minecraftslaves.duckdns.org/graphontext/markethelp/-/blob/main/specification/check/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B31%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf?ref_type=heads)
+От 1 группы 1 команды [.pdf](https://github.com/MarketHelp/MarketHelp/blob/main/specification/check/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B31%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
 
 От 2 группы 1 команды [.pdf](https://github.com/2group1team/VoiceChef/blob/master/Documentation/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%202%D0%B31%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
 
@@ -76,4 +76,12 @@
 От 2 группы 2 команды [.pdf](https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2FGoshaNumberOne%2Fescadre.io%2Fblob%2Fmain%2Fdocumentation%2F%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D1%80%D0%B5%D0%B2%D1%8C%D1%8E%2520(1%2520%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D1%8F).pdf&utf=1)
 
 ## Кросс-ревью проектов (2 атта)
-Наш чек-лист 
+Наш чек-лист [.pdf](hhttps://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%202%D0%B9%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
+
+От 1 группы 1 команды [.pdf](https://github.com/MarketHelp/MarketHelp/blob/main/specification/check/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B31%D0%BA.pdf)
+
+От 2 группы 1 команды [.pdf](https://github.com/2group1team/VoiceChef/blob/master/Documentation/%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF%202%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%201%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0.pdf)
+
+От 1 группы 2 команды [.pdf](https://github.com/progerg/Lawly/blob/master/documentation/checklist-2.pdf)
+
+От 2 группы 2 команды [.pdf]()
