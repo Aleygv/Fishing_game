@@ -49,9 +49,18 @@
 
 Отчет о тестировании [.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8.pdf) [.docx](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8.docx)
 
-[Презентация вторая аттестация](https://github.com/Aleygv/TEST_GAME/tree/fin_archetecture)
+[Презентация вторая аттестация](https://drive.google.com/file/d/1DVFlV5P_duWOcdVXLBjl9Agfavs4fT7y/view?usp=sharing)
 
-[Репазиторий с игрой](https://drive.google.com/file/d/1DVFlV5P_duWOcdVXLBjl9Agfavs4fT7y/view?usp=sharing)
+[Репозиторий с игрой](https://github.com/Aleygv/TEST_GAME/tree/fin_archetecture)
+
+[Репозиторий с админ панелью](https://github.com/POTAP322/fishventure-admin-panel.git)
+[Админ панель](http://5.35.89.153:8000/)
+- Учетка админа
+    - Логин: admin
+    - Пароль: ker452dss
+
+[Репозиторий с API](https://github.com/POTAP322/fishventure-api-service)
+[Swagger](http://5.35.89.153/docs)
 
 ## Кросс-ревью проектов
 Наш чек-лист [.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B33%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
