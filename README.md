@@ -51,6 +51,8 @@
 
 [Презентация вторая аттестация](https://drive.google.com/file/d/1DVFlV5P_duWOcdVXLBjl9Agfavs4fT7y/view?usp=sharing)
 
+Курсовая работа [.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%BE%20%D0%A2%D0%9F.pdf) [.docx](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%BE%20%D0%A2%D0%9F.docx)
+
 [Репозиторий с игрой](https://github.com/Aleygv/TEST_GAME/tree/fin_archetecture)
 
 [Репозиторий с админ панелью](https://github.com/POTAP322/fishventure-admin-panel.git)
