@@ -66,6 +66,11 @@
 
 [Swagger](http://5.35.89.153/docs)
 
+## Инструкция по запуску игры
+- Тестовый аккаунт
+    - Логин: testQ
+    - Пароль: qq
+
 ## Кросс-ревью проектов (1 атта)
 Наш чек-лист [.pdf](https://github.com/Aleygv/Fishing_game/blob/main/Documents/%D0%92%D0%93%D0%A3-%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%201%D0%B33%D0%BA%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
 
